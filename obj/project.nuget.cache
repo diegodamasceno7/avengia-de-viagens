@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ex1iOV1VHBPHZeexjVaje55NlJrC93+WQ8MP6bxFc3t4d3AwQoSmzYR0Ru14Jptiq7aarV3sHuFtyk9nAtZ8oQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Remakker\\Documents\\DIEGO DAMASCENO DE SOUSA\\projeto-destino-certo\\projeto-destino-certo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Remakker\\.nuget\\packages\\mysqlconnector\\1.2.0\\mysqlconnector.1.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}
